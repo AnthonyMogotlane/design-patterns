@@ -1,0 +1,4 @@
+interface IBurger
+{
+    string GetBurgerType();
+}
