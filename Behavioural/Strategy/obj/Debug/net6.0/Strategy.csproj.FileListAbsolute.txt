@@ -1,0 +1,15 @@
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Behavioural/Strategy/bin/Debug/net6.0/Strategy
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Behavioural/Strategy/bin/Debug/net6.0/Strategy.deps.json
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Behavioural/Strategy/bin/Debug/net6.0/Strategy.runtimeconfig.json
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Behavioural/Strategy/bin/Debug/net6.0/Strategy.dll
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Behavioural/Strategy/bin/Debug/net6.0/Strategy.pdb
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Behavioural/Strategy/obj/Debug/net6.0/Strategy.csproj.AssemblyReference.cache
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Behavioural/Strategy/obj/Debug/net6.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Behavioural/Strategy/obj/Debug/net6.0/Strategy.AssemblyInfoInputs.cache
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Behavioural/Strategy/obj/Debug/net6.0/Strategy.AssemblyInfo.cs
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Behavioural/Strategy/obj/Debug/net6.0/Strategy.csproj.CoreCompileInputs.cache
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Behavioural/Strategy/obj/Debug/net6.0/Strategy.dll
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Behavioural/Strategy/obj/Debug/net6.0/refint/Strategy.dll
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Behavioural/Strategy/obj/Debug/net6.0/Strategy.pdb
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Behavioural/Strategy/obj/Debug/net6.0/Strategy.genruntimeconfig.cache
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Behavioural/Strategy/obj/Debug/net6.0/ref/Strategy.dll
