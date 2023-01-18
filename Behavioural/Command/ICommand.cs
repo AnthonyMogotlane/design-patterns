@@ -1,0 +1,4 @@
+interface ICommand
+{
+    string Execute();
+}
