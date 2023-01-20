@@ -1,0 +1,15 @@
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Structural/Decorator/bin/Debug/net6.0/Decorator
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Structural/Decorator/bin/Debug/net6.0/Decorator.deps.json
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Structural/Decorator/bin/Debug/net6.0/Decorator.runtimeconfig.json
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Structural/Decorator/bin/Debug/net6.0/Decorator.dll
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Structural/Decorator/bin/Debug/net6.0/Decorator.pdb
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Structural/Decorator/obj/Debug/net6.0/Decorator.csproj.AssemblyReference.cache
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Structural/Decorator/obj/Debug/net6.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Structural/Decorator/obj/Debug/net6.0/Decorator.AssemblyInfoInputs.cache
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Structural/Decorator/obj/Debug/net6.0/Decorator.AssemblyInfo.cs
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Structural/Decorator/obj/Debug/net6.0/Decorator.csproj.CoreCompileInputs.cache
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Structural/Decorator/obj/Debug/net6.0/Decorator.dll
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Structural/Decorator/obj/Debug/net6.0/refint/Decorator.dll
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Structural/Decorator/obj/Debug/net6.0/Decorator.pdb
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Structural/Decorator/obj/Debug/net6.0/Decorator.genruntimeconfig.cache
+/home/codex/Desktop/decesion-inc/projects/design-patterns/Structural/Decorator/obj/Debug/net6.0/ref/Decorator.dll
