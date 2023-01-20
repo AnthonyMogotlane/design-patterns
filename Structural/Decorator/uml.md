@@ -34,3 +34,5 @@
 		override +GetBurgerType() string
 	}
 	
+```
+> Drawn by Anthony Mogotlane
